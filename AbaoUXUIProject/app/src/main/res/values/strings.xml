@@ -1,0 +1,311 @@
+<resources>
+    <string name="app_name">Foods all over the world</string>
+    <!--ASIAN FOODS-->
+    <string name="mapo_details">
+        \t\t\t\t Mapo tofu is a popular Chinese dish from Sichuan province.
+        It consists of tofu set in a spicy sauce, typically a thin, oily, and bright red suspension, based on
+        douban (fermented broad bean and chili paste), and douchi (fermented black beans), along with minced meat,
+        traditionally beef. Variations exist with other ingredients such as water chestnuts, onions, other vegetables,
+        or wood ear fungus. One account indicates that the dish existed as early as 1254, in a suburb of Chengdu,
+        the capital city of Sichuan province. \n
+
+        \n \t\t\t\t "Ma" stands for mázi, which means pockmarks. "Po" is the first syllable of pópo,
+        which means an old woman or grandma. Hence, mápó is an old woman whose face is pockmarked.
+        It is thus sometimes translated as "pockmarked grandma\'s beancurd". \n
+
+        \n \t\t\t\t According to Mrs. Chiang\'s Szechwan Cookbook: "Eugene Wu, the Librarian of the Harvard Yenching Library, grew up in Chengdu and claims that as a schoolboy he used to eat Pock-Marked Ma\'s Bean Curd or mapo doufu, at a restaurant run by the original Pock-Marked Ma herself. One ordered by weight, specifying how many grams of bean curd and meat, and the serving would be weighed out and cooked as the diner watched. It arrived at the table fresh, fragrant, and so spicy hot, or la, that it actually caused sweat to break out." \n
+
+        \n \t\t\t\tIn Japan, the dish was introduced and popularized by the Chinese-Japanese chef Chen Kenmin.
+        His son, Chen Kenichi, made it more popular as it was one of his trademark dishes on the television program
+        Iron Chef.\n
+
+        \n\nReference:
+        \nWikipedia contributors. (2022, October 5). Mapo tofu. Wikipedia. https://en.wikipedia.org/wiki/Mapo_tofu
+    </string>
+    <string name="kimchi_details">
+        \t\t\t\t Kimchi is a traditional Korean side dish of salted and fermented vegetables, such as napa cabbage and Korean radish. A wide selection of seasonings are used, including gochugaru (Korean chili powder), spring onions, garlic, ginger, and jeotgal (salted seafood), etc. Kimchi is also used in a variety of soups and stews. As a staple food in Korean cuisine, it is eaten as a side dish with almost every Korean meal. \n
+
+        \n \t\t\t\t There are hundreds of different types of kimchi made with different vegetables as the main ingredients. Traditionally, winter kimchi, called kimjang, was stored in large earthenware fermentation vessels, called onggi, in the ground to prevent freezing during the winter months and to keep it cool enough to slow down the fermentation process during summer months. The vessels are also kept outdoors in special terraces called jangdokdae. In contemporary times, household kimchi refrigerators are more commonly used. \n
+
+        \n \t\t\t\t Kimchi has been a staple in Korean culture, but historical versions were not a spicy dish. Early records of kimchi do not mention garlic or chili pepper. Chili peppers, now a standard ingredient in kimchi, had been unknown in Korea until the early seventeenth century due to its being a New World crop. Chili peppers, originally native to the Americas, were introduced to East Asia by Portuguese traders. The first mention of chili pepper is found in Jibong yuseol, an encyclopedia published in 1614.  Sallim gyeongje, a 17‒18th century book on farm management, wrote on kimchi with chili peppers. However, it was not until the 19th century that the use of chili peppers in kimchi was widespread. The recipes from early 19th century closely resemble today\’s kimchi.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022b, November 6). Kimchi. Wikipedia. https://en.wikipedia.org/wiki/Kimchi
+    </string>
+    <string name="ramen_details">
+        \t\t\t\t  Ramen is a Japanese noodle dish. It consists of Chinese-style wheat noodles served in a broth; common flavors are soy sauce and miso, with typical toppings including sliced pork (chāshū), nori (dried seaweed), menma (bamboo shoots), and scallions. Ramen has its roots in Chinese noodle dishes. Nearly every region in Japan has its own variation of ramen, such as the tonkotsu (pork bone broth) ramen of Kyushu and the miso ramen of Hokkaido. \n
+
+        \n \t\t\t\t The word ramen is a Japanese borrowing of the Mandarin Chinese lāmiàn ("pulled noodles"). However, historian Barak Kushner argues that this borrowing occurred retroactively and that various independent Japanese corruptions of Chinese words had already led to Japanese people calling this Chinese noodle dish "ramen". One theory suggests that the Japanese mistook the Chinese particles "le" or "la" for a "ra" sound when Chinese cooks would announce "hăo le" to communicate that a dish was complete. The Japanese then appended the word "men" (meaning “noodle”) to the "ra" to create the word "ramen". Early ramen or ramen-like dishes went by different names, such as Nankin soba (literally "Nanjing soba", named after the city which was the then capital of China), Shina soba (literally "Chinese soba"), or Chūka soba (also meaning "Chinese soba"). Until the 1950s, ramen was most commonly called Shina soba, but today Chūka soba or just ramen are more common, as the word (Shina, meaning "China") has acquired a pejorative connotation through its association with Japanese imperialism.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022c, November 8). Ramen. Wikipedia. https://en.wikipedia.org/wiki/Ramen
+    </string>
+    <string name="adobo_details">
+        \t\t\t\t  Philippine adobo (from Spanish adobar: "marinade," "sauce" or "seasoning") is a popular Filipino dish and cooking process in Philippine cuisine that involves meat, seafood, or vegetables marinated in vinegar, soy sauce, garlic, bay leaves, and black peppercorns, which is browned in oil, and simmered in the marinade. It has occasionally been considered the unofficial national dish in the Philippines. \n
+
+        \n \t\t\t\t The cooking method for the Philippine adobo is indigenous to the Philippines. The various precolonial peoples of the country often cooked or prepared their food with vinegar and salt to preserve them in the tropical climate. Vinegar, in particular, is one of the most important ingredients in Filipino cuisine, with the main traditional types being coconut, cane, nipa palm, and kaong palm. These are all of which are linked to traditional alcohol fermentation. \n
+
+        \n \t\t\t\t There are four main traditional cooking methods using vinegar in the Philippines: kinilaw (raw seafood in vinegar and spices), paksíw (a broth of meat with vinegar and spices), sangkutsa (pre-cooked braising of meat in vinegar and spices), and finally adobo (a stew of vinegar, garlic, salt/soy sauce, and other spices). It is believed that paksíw, sangkutsa, and adobo are all derivations of kinilaw. They are also related to cooking techniques like sinigang and pinangat na isda that also have a sour broth, albeit using fruits like calamansi, tamarind, unripe mangoes, bilimbi, santól, and star fruit as souring agents instead of vinegar.
+When the Spanish Empire colonized the Philippines in the late 16th and early 17th centuries, they encountered the adobo cooking process. It was first recorded in the 1613 dictionary Vocabulario de la lengua tagala compiled by the Spanish Franciscan missionary Pedro de San Buenaventura. He referred to it as adobo de los naturales ("adobo of the native [peoples]"). \n
+
+        \n \t\t\t\t The Spanish also applied the term adobo to any native dish that was marinated before consumption. In the 1794 edition of the Vocabulario, it was applied to quilauìn (kinilaw) a related but different dish which also primarily uses vinegar. In the 1711 Visayan dictionary Vocabulario de la lengua Bisaya, the term guinamus (verb form: gamus) was used to refer to any kind of marinades (adobo), from fish to pork. Other terms for precolonial adobo-like dishes among the Visayan peoples are dayok and danglusi. In modern Visayan, guinamos and dayok refer to separate dishes. Dishes prepared with vinegar, garlic, salt (later soy sauce), and other spices eventually came to be known solely as adobo, with the original term for the dish now lost to history.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022b, October 29). Philippine adobo. Wikipedia. https://en.wikipedia.org/wiki/Philippine_adobo
+    </string>
+    <string name="curry_details">
+        \t\t\t\tA curry is a dish with a sauce seasoned with spices, mainly associated with South Asian cuisine. In southern India, leaves from the curry tree may be included.\n
+
+        \n \t\t\t\t There are many varieties of curry. In traditional cuisines, the selection of spices for each dish is a matter of regional cultural tradition and individual tastes. Such dishes have names that refer to their ingredients, spicing, and cooking methods. Outside the Indian subcontinent, a curry is a dish from Southeast Asia which uses coconut milk or spice pastes, commonly eaten over rice. Curries may contain fish, meat, poultry, or shellfish, either alone or in combination with vegetables. Others are vegetarian. Dry curries are cooked using small amounts of liquid, which is allowed to evaporate, leaving the other ingredients coated with the spice mixture. Wet curries contain significant amounts of sauce or gravy based on broth, coconut cream or coconut milk, dairy cream or yogurt, or legume puree, sautéed crushed onion, or tomato puree. \n
+
+        \n \t\t\t\t Curry Powder, a commercially prepared mixture of spices marketed in the West, was first exported to Britain in the 18th century when Indian merchants sold a concoction of spices, similar to garam masala, to the British colonial government and army returning to Britain.
+
+        \n\nReference:
+        \nWikipedia contributors. (2001, September 30). Curry. Wikipedia. https://en.wikipedia.org/wiki/Curry
+    </string>
+    <string name="biryani_details">
+        \t\t\t\t In a kacchi biryani, layers of raw marinated meat are alternated in layers with wet, pre-soaked,
+        raw rice (which may be treated kacchi biryaniwith different spices as above), and cooked together by baking,
+        or medium-to-low direct heat (typically, for at least an hour). \n
+        \n \t\t\t\t In a kacchi biryani, layers of raw marinated meat are alternated in layers with wet, pre-soaked, raw rice (which may be treated with different spices as above), and cooked together by baking, or medium-to-low direct heat (typically, for at least an hour). Cooking occurs by a process of steaming from the ingredients\' own moisture: the cooking vessel\'s lid is sealed (traditionally, with a strip of wheat dough) so that steam cannot escape (proper Dum pukht). \n
+        \n \t\t\t\t A yoghurt-based marinade at the bottom of the cooking pot provides additional flavour and moisture. Potatoes often comprise the bottom-most layer (a technique also used in Iranian cuisine), because, with their natural moisture content, they brown well with less risk of getting burned accidentally. The lid is not opened until the dish is ready to serve.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022e, November 10). Biryani. Wikipedia. https://en.wikipedia.org/wiki/Biryani
+    </string>
+    <string name="nihari_details">
+        \t\t\t\t Nihari is a stew originating in Lucknow, the capital of 18th-century Awadh under the Mughal Empire in the Indian subcontinent. It consists of slow-cooked meat, mainly a shank cut of beef, lamb and mutton, or goat meat, as well as chicken and bone marrow. It is flavoured with long pepper (pippali), a relative of black pepper. \n
+
+        \n\t\t\t\t The name nihari originates from  Arabic nahar, meaning “morning”. It was originally eaten by nawabs in the Mughal Empire as a breakfast course following Fajr prayer.\n
+
+        \n \t\t\t\t According to many sources, nihari originated in the royal kitchens of Lucknow, Awadh (modern-day Uttar Pradesh, India), in the late 18th century, during the last throes of the Mughal Empire. It was originally meant to be consumed as a heavy, high-energy breakfast dish on an empty stomach by working-class citizens, particularly in colder climates and seasons. However, the dish later gained a significant amount of popularity and eventually became a staple of the royal cuisine of Mughal-era nawabs. \n
+        \n \t\t\t\t Nihari developed with the overall cuisine of the Muslims of the Indian subcontinent. It remains a popular delicacy, especially in parts of Old Delhi, Lucknow, Dhaka, and Chittagong. The dish is known for its spiciness, taste, texture, and gravy.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022b, October 22). Nihari. Wikipedia. https://en.wikipedia.org/wiki/Nihari
+    </string>
+    <string name="padthai_details">
+        \t\t\t\t Pad Thai, phat thai or phad thai is a stir-fried rice noodle dish commonly served as a street food in Thailand as part of the country\’s cuisine. It is typically made with rice noodles, shrimp, peanuts, a scrambled egg, and bean sprouts, among other vegetables. The ingredients are fried in a wok. \n
+
+        \n \t\t\t\t Though stir fried rice noodles were introduced to Thailand from Chinacenturies ago, the dish pad thai was invented in the mid-20th century. \n
+        \n \t\t\t\t Author Mark Padoongpatt maintains that pad thai is "...not this traditional, authentic, going back hundreds of years dish. It was actually created in the 1930s in Thailand. The dish was created because Thailand was focused on nation building. So this dish was created using Chinese noodles and called it pad Thai as a way to galvanize nationalism. \n
+        \n \t\t\t\t Another explanation of pad thai\’s provenance holds that, during World War II, Thailand suffered a rice shortage due to the war and floods. To reduce domestic rice consumption, the Thai government under Prime Minister Plaek Phibunsongkhram promoted consumption of noodles instead. His government promoted rice noodles and helped to establish the identity of Thailand. As a result, a new noodle called sen chan (named after Chanthaburi Province) was created. Pad thai has since become one of Thailand\’s national dishes. Today, some food vendors add pork or chicken (although the original recipe did not contain pork because of the government\’s perception that pork was a Chinese meat). Some food vendors still use the original recipe.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022c, October 23). Pad thai. Wikipedia. https://en.wikipedia.org/wiki/Pad_thai
+    </string>
+    <string name="laksa_details">
+        \t\t\t\t Laksa is a spicy noodle dish popular in Southeast Asia.  Laksa consists of various types of noodles, most commonly thick rice noodles, with toppings such as chicken, prawn or fish. Most variations of laksa are prepared with a rich and spicy coconut soup or a broth seasoned with sour asam (tamarind or gelugur). \n
+        \n \t\t\t\t Originating from Peranakan cuisine, laksa recipes are commonly served in Indonesia, Malaysia, and Singapore. \n
+        \n \t\t\t\t Laksa is one of the most popular dishes of Peranakan origin, with a diverse variety of ingredients and preparation processes that vary greatly by region. Because laksa has different varieties across the region, it is difficult to pinpoint the exact origin of the dish. Nevertheless, numbers of laksa recipes has been developed along the trade channels of Southeast Asia—where the ports of Penang, Medan, Malacca, Singapore, Palembang, and Batavia (now Jakarta) are the major stops along the historic spice route. The intensive trade links among these port cities enables exchanges of ideas to take place, including sharing recipes. \n
+        \n \t\t\t\t There are various theories about the origins of laksa. One theory is that the word laksa is theorised to come from an ancient Persian word for “noodles". According to Denys Lombard in the book Le carrefour Javanais. Essai d\histoire globale II (The Javanese Crossroads: Towards a Global History, 2005), one of the earliest record of the word laksa to describe noodles was found in the Javanese Biluluk inscription dated from 1391 of Majapahit era that mentions the word hanglaksa. Hanglaksa in Kawi means "vermicelli maker”. In Sanskrit, laksa means "one hundred thousand", referring to numerous strands of the vermicelli. The term laksa or lakhshah is also believed to have come from Persian or Hindi which refer to a kind of vermicelli.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022c, October 23). Laksa. Wikipedia. https://en.wikipedia.org/wiki/Laksa
+    </string>
+    <string name="nasi_details">
+        \t\t\t\t Nasi Goreng is a Southeast Asian fried rice dish, usually cooked with pieces of meat and vegetables. One of Indonesia\’s national dishes, it is also endemic in Malay-speaking communities in countries such as Malaysia, Singapore, and Brunei, and has gained popularity in Sri Lanka through migrations from the Malay Archipelago, in countries like Suriname via Indonesian immigrant communities,and in the Netherlands through its colonial ties with Indonesia. Nasi goreng is distinguished from other Asian fried rice preparations by its distinct smoky aroma, and caramelised yet savoury undertones of flavour. There is no single defined recipe for nasi goreng, and its composition and preparation varies greatly from household to household. \n
+        \n \t\t\t\t Nasi goreng has long been considered an important staple of Indonesian cuisine. In 2018, it is officially recognized by the Indonesian government as one of the country\’s five national dishes.An ubiquitous meal throughout Indonesia, particularly for breakfast, it can be enjoyed in simple versions from a tin plate at a roadside food stall, eaten on porcelain in restaurants, or collected from the buffet tables at dinner parties in urban cities like Jakarta. Premixed packaged seasonings for nasi goreng are widely available for purchase, and microwave-heated frozen versions of nasi goreng may be found in convenience store outlets throughout Indonesia.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022e, October 26). Nasi goreng. Wikipedia. https://en.wikipedia.org/wiki/Nasi_goreng
+    </string>
+    <!--EUROPEAN FOODS-->
+    <string name="english_details">
+        \t\t\t\t A full breakfast is a substantial cooked breakfast meal, often served in the United Kingdom and Ireland, that typically includes back bacon, sausages, eggs, black pudding, baked beans, some form of potato, tomatoes, mushrooms, toast, and a beverage such as coffee or tea. It appears in different regional variants and is referred to by different names depending on the area. While it is colloquially known as a "fry up" in most areas of the UK and Ireland, it is usually referred to as a "full English" (often "full English breakfast”), a "full Irish", "full Scottish", "full Welsh", and "Ulster fry”, in England, the Republic of Ireland, Scotland, Wales, and Northern Ireland, respectively. \n
+        \n \t\t\t\t It is so popular in Great Britain and Ireland that many cafes and pubs offer the meal at any time of day as an "all-day breakfast". It is also popular in many Commonwealth nations. The full breakfast is among the most internationally recognised British dishes along with bangers and mash, shepherd\’s pie, fish and chips, roast beef, Sunday roast and Christmas dinner. \n
+        \n \t\t\t\t On its origin, Country Life magazine states, "The idea of the English breakfast as a national dish goes right back to the 13th century and the country houses of the gentry. In the old Anglo-Saxon tradition of hospitality, households would provide hearty breakfasts for visiting friends, relatives and neighbours”. The fried breakfast became popular in Great Britain and Ireland during the Victorian era, and appears as one among many suggested breakfasts in home economist Isabella Beeton\’s Book of Household Management (1861). Its popularity soared post-World War II and it became a staple of the working class. The protein-centric full breakfast is often contrasted (e.g. on hotel menus) with the lighter, carbohydrate-based alternative of a continental breakfast.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022g, November 4). Full breakfast. Wikipedia. https://en.wikipedia.org/wiki/Full_breakfast
+    </string>
+    <string name="fondue_details">
+        \t\t\t\t Fondue is a Swiss melted cheese dish served in a communal pot (caquelon or fondue pot) over a portable stove (rechaud) heated with a candle or spirit lamp, and eaten by dipping bread into the cheese using long-stemmed forks. It was promoted as a Swiss national dish by the Swiss Cheese Union (Schweizerische Käseunion) in the 1930s, and was popularized in North America in the 1960s. \n
+        \n \t\t\t\t Since the 1950s, the term "fondue" has been generalized to other dishes in which a food is dipped into a communal pot of liquid kept hot in a fondue pot: chocolate fondue, fondue au chocolat, in which pieces of fruit or pastry are dipped into a melted chocolate mixture, and fondue bourguignonne, in which pieces of meat are cooked in hot oil or broth. \n
+        \n \t\t\t\t The word fondue is the feminine passive past participle of the French verb fondre “to melt” used as a noun. It is first attested in French in 1735, in Vincent La Chapelle\’s Cuisinier moderne, and in English in 1878.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022a, September 30). Fondue. Wikipedia. https://en.wikipedia.org/wiki/Fondue
+    </string>
+    <string name="croissant_details">
+        \t\t\t\t A croissant is a buttery, flaky, French viennoiserie pastry inspired by the shape of the Austrian Kipferl but using the French yeast-leavened laminated dough. Croissants are named for their historical cresent shape, the dough is layered with butter, rolled and folded several times in succession, then rolled into a thin sheet, in a technique called laminating. The process results in a layered, flaky texture, similar to a puff pastry. \n
+        \n \t\t\t\t Crescent-shaped breads have been made since the Renaissance, and crescent-shaped cakes possibly since antiquity but using brioche dough. Kipferls have long been a staple of Austrian, and French bakeries and patisseries. The modern croissant was developed in the early 20th century when French bakers replaced the brioche dough of the kipferl with a yeast-leavened laminated dough. In the late 1970s, the development of factory-made, frozen, preformed but unbaked dough made them into a fast food that could be freshly baked by unskilled labor. The croissant bakery, notably the La Croissanterie chain, was a French response to American-style fast food, and as of 2008, 30–40% of the croissants sold in French bakeries and patisseries were baked from frozen dough. \n
+        \n \t\t\t\t Croissants are a common part of a continental breakfast in many European countries.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022i, November 6). Croissant. Wikipedia. https://en.wikipedia.org/wiki/Croissant
+    </string>
+    <string name="currywurst_details">
+        \t\t\t\t Currywurst is a fast food dish of German origin consisting of steamed, fried sausage, usually pork (bratwurst), typically cut into bite-sized chunks and seasoned with curry ketchup, a sauce based on spiced ketchup or tomato paste topped with curry powder, or a ready-made ketchup seasoned with curry and other spices. The dish is often served with fries. \n
+        \n \t\t\t\t The invention of currywurst is attributed to Hertz Heuwer in Berlin in 1949, after she obtained ketchup (or possibly worcestershire sauce) and curry powder from British soldiers in Germany. She mixed these ingredients with other spices and poured it over grilled pork sausage. Heuwer started selling the cheap but filling snack at a street stand in the Charlottenburg district of Berlin, where it became popular with construction workers rebuilding the devastated city. She patented her sauce under the name "Chillup" in 1951. At its height the stand was selling 10,000 servings per week. She later opened a small restaurant which operated until 1974. On 30 June 2013 Heuwer\’s 100th birthday was celebrated with a Google Doodle. \n
+
+        \n \t\t\t\t Konnopke\’s Imbiss (Fast Food Stand) in Berlin. It was the first Imbiss to sell currywurst in East-Berlin in 1960.
+Today, currywurst is often sold as a take-out/take-away food, Schnellimbisse (snack stands), at diners or “greasy spoons, ”on children\’s menus in restaurants, or as a street food and usually served with French fries or bread rolls (Brötchen). It is popular all over Germany but especially in the metropolitan areas of Berlin, Hamburg and the Ruhr Area. Considerable variation, both in the type of sausage used and the ingredients of the sauce, occurs between these areas. Common variations include the addition of paprika or chopped onions; halal food stands often prepare currywurst with beef sausage. Often currywurst is sold in food booths, sometimes using a special machine to slice it into pieces, and served on a paper plate with a little wooden or plastic fork, mostly a Currywurst fork. It is also sold as a supermarket-shelf product to prepare at home. \n
+        \n \t\t\t\t The Deutsches Currywurst Museum estimated that 800 million currywursts are eaten every year in Germany, with 70 million in Berlin alone. The Volkswagen plant at Wolfsburg runs its own butchery producing about 7 million Volkswagen currywursts per year, serving many directly to Volkswagen employees.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022b, October 1). Currywurst. Wikipedia. https://en.wikipedia.org/wiki/Currywurst
+    </string>
+    <string name="aranchini_details">
+        \t\t\t\t Arancini are Italian rice balls that are stuffed, coated with breadcrumbs and deep fried, and are a staple of Sicilian cuisine. The most common arancini fillings are: al ragù or al sugo, filled with ragu (meat or mince, slow-cooked at low temperature with tomato sauce and spices), mozzarella or caciocavallo cheese, and often peas, and al burro or ô burru, filled with ham and mozzarella or besciamella. \n
+        \n \t\t\t\t A number of regional variants exist which differ in their fillings and shape. Arancini al ragù produced in eastern Sicily have a conical shape inspired by the volcano Etna. \n
+        \n \t\t\t\t Arancini derives from the Sicilian plural diminutive of aranciu (“orange”), from their shape and colour which, after cooking, is reminiscent of an orange. In Sicilian, arancini is grammatically plural. The corresponding singular is either the masculine arancinu or the feminine arancina. The eastern side of Sicily tends to use the masculine form, while the western side tends to use the feminine form. \n
+        \n \t\t\t\t In Italian, the masculine arancino (pl. arancini) form has become prevalent, even though the feminine form arancina (pl. arancine) can also be used. \n
+        \n \t\t\t\t Arancini are said to have originated in 10th-century Sicily, at a time when the island was under Arab rule. Its origins may therefore be possibly the same as kibbeh of the Levantine cuisine. \n
+        \n \t\t\t\t In the cities of Palermo, Siracusa, and Trapani in Sicily, arancini are a traditional food for the feast of Santa Lucia on 13 December, when bread and pasta are not eaten. This commemorates the arrival of a grain supply ship on Santa Lucia\’s day in 1646, relieving a severe famine. \n
+        \n \t\t\t\t Today, with the increasing popularity of this finger food in modern Italian food culture, arancini are found all year round at most Sicilian food outlets, particularly in Palermo, Messina and Catania. The dish was traditionally created to provide a full meal to Federico II di Svevia during his hunting activities.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022j, November 6). Arancini. Wikipedia. https://en.wikipedia.org/wiki/Arancini
+    </string>
+    <string name="paella_details">
+        \t\t\t\t Paella is a rice dish originally from Valencia. While it is commonly viewed by non-Spaniards as Spain\’s national dish,  Spaniards almost unanimously consider it to be a dish from the Valencian region. Valencians, in turn, regard paella as one of their identifying symbols. It is one of the best-known dishes in Spanish cuisine. \n
+        \n \t\t\t\t The dish takes its name from the wide, shallow traditional pan used to cook the dish on an open fire, paella being the word for a frying pan in Valencia\’s regional language. As a dish, it may have ancient roots, but in its modern form it is traced back to the mid-19th century, in the rural area around the Albufera lagoon adjacent to the city of Valencia, on the Mediterranean coast of Spain. \n
+        \n \t\t\t\t Paella valenciana is the traditional paella of the Valencia region, believed to be the original recipe, and consists of round-grain rice bajoqueta and tavella (varieties of green beans), rabbit, chicken, sometimes duck, and garrofó (a variety of lima or butter bean), cooked in olive oil and chicken broth. The dish is sometimes seasoned with whole rosemary branches. Traditionally, the yellow color comes from saffron, but tumeric and calendula can be used as substitutes. Artichoke hearts and stems may be used as seasonal ingredients. Most paella cooks use bomba rice, but Valencians tend to use a cultivar known as senia. \n
+        \n \t\t\t\t Paella de marisco (seafood paella) replaces meat with seafood and omits beans and green vegetables, while paella mixta (mixed paella) combines meat from livestock, seafood, vegetables, and sometimes beans, with the traditional rice. \n
+        \n \t\t\t\t Other popular local variations of paella are cooked all through the Mediterranean area, the rest of Spain and internationally.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022g, October 25). Paella. Wikipedia. https://en.wikipedia.org/wiki/Paella
+    </string>
+    <string name="moussaka_details">
+        \t\t\t\t Moussaka is an eggplant- or potato-based dish, often including ground meat, which is common in the Balkans and the Middle East, with many local and regional variations. \n
+        \n \t\t\t\tThe best-known version in Europe and the Americas is the Greek variant created in the 1920s by Nikolaos Tselementes. Many versions have a top layer made of milk-based sauce thickened with egg (custard) or flour (béchamel sauce). In Greece, the dish is layered and typically served hot. Tselementes also proposed a vegan variant for orthodox fast days. Romania also has a vegan version that replaces meat with mushrooms or a mix of sautéed onions and rice. \n
+        \n \t\t\t\t The versions in Egypt, Turkey and the rest of the Middle East are quite different. In Egypt, messa\’aa can be made vegan or vegetarian as well as with meat; in all cases, the main ingredient is the fried eggplant. In Turkey, mussaka consists of thinly sliced and fried eggplant served in a tomato-based meat sauce, warm or at room temperature. In Saudi Arabia muṣagga\’a is eaten hot, but in other Arab countries, it is often eaten cold, but occasionally hot as well.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022a, September 22). Moussaka. Wikipedia. https://en.wikipedia.org/wiki/Moussaka
+    </string>
+    <string name="kroppakaka_details">
+        \t\t\t\t Kroppakaka (plural "kroppkakor") is a traditional Swedish boiled potato-dumplings, most commonly filled with onions and meat. Potatoes, wheat flour, onion, salt, and minced meat/pork are common ingredients in kroppkaka. They are very similar to the Norwegian raspeball, Lithuanian Cepelinai and German Klobe. \n
+        \n \t\t\t\t Kroppkakor are served with butter (melted), lingon-jam or heavy cream. There are some regional variations of the recipe, in particular when it comes to the proportions of boiled and raw potatoes. Spices are heavily featured in some variations. Kroppkakor are mainly eaten in the southern Swedish landskap (provinces) of Land, Smaland, Gotland, and Blekinge. \n
+        \n \t\t\t\t The dish is very different between regions. In Blekinge, the kroppkakor are called ”grey kroppkakor” and are made from almost only raw potatoes and only a tiny bit boiled potatoes are used. In Oland, kroppkakor are made from mostly raw potatoes and a small amount of boiled potato. In Smaland, kroppkakor are made of mostly boiled potatoes and a small amount of raw potato, and in Gorland, kroppkakor are made of only boiled potatoes. \n
+        \n \t\t\t\t In Blekinge and Öland, there are kroppkakor with different fillings such as eel and seabirds which were historically eaten mostly by the poor, since they had access to fish for eels or hunt seabirds. However, the most common filling is pork. \n
+        \n \t\t\t\t Kroppkakor comes from the south eastern area of Sweden, but in the northern Sweden, there is a similar dish called palt. Palt is made in a similar way, but the ingredients differ a little, such as what kind of flour and what kind of potatoes are used, which makes a big difference in taste from the kroppkakor.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022o, November 6). Kroppkaka. Wikipedia. https://en.wikipedia.org/wiki/Kroppkaka
+    </string>
+    <string name="borscht_details">
+        \t\t\t\t Borscht is a sour soup common in Eastern Europe and Northern Asia. In English, the word "borscht" is most often associated with the soup\’s variant of Ukrainan origin, made with red beetroots as one of the main ingredients, which give the dish its distinctive red color. The same name, however, is also used for a wide selection of sour-tasting soups without beetroots, such as sorrel-based green borscht, rye-based white borscht, and cabbage borscht. \n
+        \n \t\t\t\t Borscht derives from an ancient soup originally cooked from pickled stems, leaves and umbels of common hogweed(Heracleum sphondylium), a herbaceous plant growing in damp meadows, which lent the dish its Slavic name. With time, it evolved into a diverse array of tart soups, among which the Ukrainian beet-based red borscht has become the most popular. It is typically made by combining meat or bone stock with sauteed vegetables, which – as well as beetroots – usually include cabbage, carrots, onions, potatoes, and tomatoes. Depending on the recipe, borscht may include meat or fish, or be purely vegetarian; it may be served either hot or cold, and it may range from a hearty one-pot meal to a clear broth or a smooth drink. It is often served with smetana or sour cream, hard-boiled eggs or potatoes, but there exists an ample choice of more involved garnishes and side dishes, such as uszka or pampushky, that can be served with the soup. \n
+        \n \t\t\t\t Its popularity has spread throughout Eastern Europe and – by way of migration away from the Russian Empire– to other continents. In North America, borscht is often linked with either Jews or Mennonites, the groups who first brought it there from Europe. Several ethnic groups claim borscht, in its various local guises, as their own national dish consumed as part of ritual meals within Eastern Orthodox, Greek Catholic, Roman Catholic, and Jewish religious traditions. \n
+        \n \t\t\t\t In 2022, the United Nations Educational, Scientific, and Cultural Organization (UNESCO) announced that it had placed borscht on the List of Intangible Cultural Heritage in Need of Urgent Safeguarding due to the risk that Russia\’s invasion posed to the soup\’s status as an element of Ukraine\’s cultural heritage. The new status means Ukraine could now apply for special funds to finance projects promoting and protecting the dish.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022j, October 27). Borscht. Wikipedia. https://en.wikipedia.org/wiki/Borscht
+    </string>
+    <string name="syrniki_details">
+        \t\t\t\t Syrniki are fried Eastern Slavic quark (curd cheese) pancakes. In Russia, they are also known as tvorozhniki. They are a part of Belarusian, Russian, Ukrainian, Latvian, Lithuanian, and Serbian cuisine. Their simplicity and delicious taste have made them very popular in Eastern Europe. \n
+        \n \t\t\t\t The name syrniki is derived from the Slavic word syr , stand for soft curd cheese. The Ukrainian language retains the old Slavic sense of the word, as in domashnii syr (literal translation “domestic cheese”), whereas in Russinan, another old Slavic word for curd cheese, namely the word tvorog, is used. \n
+
+        \n \t\t\t\t Syrnyky or tvorozhniki are made from creamy quark, mixed with flour, eggs, and sugar, sometimes adding vanilla extract. Pot cheese or farmer\’s cheese is suggested as a substitute for the tvorog. The soft mixture is shaped into cakes, which are pan- or shallow-fried in vegetable oil or in hot butter. The consistency should remain slightly creamy, while they are slightly browned on both sides. They are traditionally sweet and served for breakfast or dessert, but can be made savory as well. Raisins, chopped dried apricot, fresh apples or pears are sometimes added into the batter. They are typically served with varenye, jam, smetana (sour cream) and / or melted butter.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022a, July 5). Syrniki. Wikipedia. https://en.wikipedia.org/wiki/Syrniki
+    </string>
+    <!--OCEANIA FOODS-->
+    <string name="vegemite_details">
+        \t\t\t\t Vegemite is a thick, dark brown Australian food spread made from leftover brewers\’ yeast extract with various vegetable and spice additives. It was developed by Cyril Callister in Melbourne, Victoria in 1922. \n
+        \n \t\t\t\t A spread for sandwiches, toast, crumpets and cracker biscuits as well as a filling for pastries, Vegemite is similar to British Marmite, New Zealand Marmite, Australian Promise, MightyMite, AussieMite, OzEmite, German Vitam-R, and Swiss Cenovis. \n
+        \n \t\t\t\t Vegemite is salty, slightly bitter, malty, and rich in glutamates – giving it an umami flavour similar to beef bouillon. It is vegan, kosher, and halal. \n
+        \n \t\t\t\t The Vegemite brand returned to Australian ownership in 2017 when Bega Cheese purchased it alongside other assets from Mondelez International (formerly Kraft Foods Inc.). \n
+        \n \t\t\t\t In 1919, following the disruption of British Marmite imports after World War I, the Australian company Fred Walker and Co. gave Cyril Callister the task of developing a spread from the used yeast being dumped by breweries. Callister had been hired by the chairman Fred Walker. \n
+        \n \t\t\t\t Callister used autolysis to break down the yeast cells from waste obtained from the Carlton and United brewery. Concentrating the clear liquid extract and blending with salt, celery and onion extracts formed a sticky black paste. \n
+        \n \t\t\t\t Vegemite first appeared on the market in 1923 with advertising emphasising the value of Vegemite to children\’s health, but failed to sell well. Faced with growing competition from Marmite, from 1928 to 1935 the product was renamed as "Parwill" to make use of the advertising slogan "Marmite but Parwill", a convoluted pun on the new name and that of its competitor; "If Ma [mother] might... then Pa [father] will." This attempt to expand market share was unsuccessful and the name reverted to Vegemite, but it did not recover its lost market share.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022r, November 7). Vegemite. Wikipedia. https://en.wikipedia.org/wiki/Vegemite
+    </string>
+    <string name="kokoda_details">
+        \t\t\t\t Kokoda is perhaps the most popular dish in Fiji. It is a kind of raw fish salad, similar to ceviche
+        or poke bowls from South America. Raw fish marinated in citrus is mixed with coconut cream, onion, tomatoes,
+        and chillies in a dish that\'s served over steamed rice.\n
+        \n \t\t\t\t Fijian cuisine has traditionally been a mix of forage and farm based ingredients. Native Fijians have a tuber and coconut based diet, though since the colonial period staples such as rice, flour, and tea have also become basic goods. Higher calorie ingredients such as cassava, taro, and yams have also been staple ingredients grown by natives for thousands of years. Fijian cuisine is noted for its seafood and varieties of leafy vegetables such as Bele, a spinach-like weed also known as slippery cabbage, and Ota, a forest fern which is harvested young to be eaten. \n
+        \n \t\t\t\t In most Fijian homes, dishes from other cultures are often eaten, most frequently those brought to Fiji by Indian and Chinese arrivals. Fijian cuisine has been heavily influenced by its recent history as part of the British Empire, as the British system of indentured servitude brought many Indians to the islands, greatly contributing to the modern cuisines. \n
+        \n \t\t\t\t Breakfast in many households may include items such as bread, cereal, milk, tea, coffee, and eggs, as well as local ingredients like roti and curry, boiled taro and fish soup and cabin crackers with butter. The diet is similar to surrounding island nations such as Samoa and Tonga. Old trade routes across these countries have ensure a diverse selection of food.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022f, October 13). Fijian cuisine. Wikipedia. https://en.wikipedia.org/wiki/Fijian_cuisine
+    </string>
+    <string name="hangi_details">
+        \t\t\t\t Hangi is a traditional New Zealand Māori method of cooking food using heated rocks buried in a pit
+        oven, called an umu. It is still used for large groups on special occasions, as it allows large quantities
+        of food to be cooked without the need for commercial cooking appliances. \n
+        \n \t\t\t\t To "lay a hāngī" or "put down a hāngī" involves digging a pit in the ground, heating stones in the pit with a large fire, placing baskets of food on top of the stones, and covering everything with earth for several hours before uncovering (or lifting) the hāngī. Hāngī "experts" have developed and improved methods that have often, like the stones themselves, been handed down for generations. \n
+        \n \t\t\t\t Common foods cooked in a hāngī are meats such as lamb, pork, chicken and seafood (kaimoana), and vegetables such as potato, kumara (sweet potato), yams (oca), pumpkin, squash, taro and cabbage. \n
+        \n \t\t\t\t A hāngī pit is dug to a depth of between 50–100 cm (20–40 in), sufficient to hold the rocks and two stacked baskets of food. Logs, usually Manuka or kanuka, are stacked over the pit with the rocks, commonly andesite or basalt, on top. The logs are lit and is left to burn for 3 to 4 hours, heating the rocks to 600–700 degrees Celsius (1,100–1,300 degrees Fahrenheit ). Once the fire has burned down, the hot embers and most of the ash is removed. Alternatively, the fire is built separately and the hāngī pit is dug while the fire is burning, with the hot rocks transferred to the pit after heating. \n
+        \n \t\t\t\t Meanwhile, the food is prepared and placed in wire baskets lined with either puka, banana or cabbage leaves, or aluminium foil. The meat basket is placed in the bottom of the pit, with the vegetable basket placed on top. If seafood is included, it is placed on top of the vegetable basket. Wet sacks or cloth are placed on top of the baskets, and the whole pit is covered with earth. The hāngī takes approximately 2.5 to 4 hours to cook. A person supervises the hāngī while it cooks, covering up any escaping steam with earth. \n
+        \n \t\t\t\t Once the hāngī is cooked, the earth is carefully removed from the top of the pit, followed by the sacks or cloth. The baskets are lifted out of the pit, and the food taken to the kitchen for carving and serving. \n
+
+        \n \t\t\t\t Prior to colonisation and the introduction of metals and wire, food was laid between bark, large leaves and other vegetation. Wire baskets became widely used in the early 19th century, with sacking and cloth replacing leaves and bark as the covering of choice. \n
+        \n \t\t\t\t In the early 21st century, gas heated stainless steel "hāngī machines" are sometimes used to replicate the style of cooking without the need for a wood fire, rocks and a pit.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022g, October 15). Hāngī. Wikipedia. https://en.wikipedia.org/wiki/H%C4%81ng%C4%AB
+    </string>
+    <string name="panipopo_details">
+        \t\t\t\t Panipopo is the national dish of Samoa, and is commonly served as a morning pastry or dessert.
+        It can take the form of a bun or roll and is baked in sweet coconut milk. They are typically served in
+        shallow bowls, spooned over with more sweet coconut milk, and accompanied by a hot beverage, like a Samoan cocoa.
+
+        \n\nReference:
+        \nBlog, Y. –. O. (2021, September 9). A guide to Samoan cuisine. Yelp - Official Blog. https://blog.yelp.com/community/a-guide-to-samoan-cuisine/
+    </string>
+    <string name="bat_details">
+        \t\t\t\t The broth of fruit bat soup is made by washing a bat and throwing it in boiling water, fur included!
+        After its been cooked for a while, the bat is taken out of the water and cooked with ginger and coconut milk.
+        Other spices as well as vegetables can be added as an addition to the core recipe. \n
+        \n \t\t\t\t Fruit bat soup is a Palau delicacy made with small fruit bats who reside in forested areas at the top of trees. They consume nectar, flowers, and wild fruits, helping with the distribution of seeds during the process. The bats\’ diet of flowers and fruits also results in their meat being sweeter than the meat of other bats. \n
+
+        \n \t\t\t\t The soup is prepared by boiling the washed bats in water, then cooking them with ginger, coconut milk, and various spices (and often vegetables) depending on the cook\’s preferences. It is typically served in large bowls, with the bat staring at your face, and the proper way to eat it is to chew the bat, sucking the meat out in the process and discarding the leftover fur. \n
+
+        \n \t\t\t\t What was once a staple of the locals\’ diet became a delicacy over the years, and since the end of 2019, it became a controversial dish due to possible (but not proven!) correlation with the infamous coronavirus.
+
+        \n\nReference:
+        \nTasteAtlas. (2017, June 7). Fruit Bat Soup | Traditional Meat Soup From Palau | TasteAtlas. https://www.tasteatlas.com/fruit-bat-soup
+
+    </string>
+    <string name="mumu_details">
+        \t\t\t\t Mumu is regarded as the national dish of Papua New Guinea. It is composed of pork, sweet potato,
+        rice, and vegetables. Mumu is an example of a balanced dish composed of the two bases, crops (including
+        starch) and meat. \n
+        \n \t\t\t\t The cuisine of Papua New Guinea are the traditional varied foods found in the eastern part of the New Guinea island. Approximately 80 percent of the population is reliant on subsistence agriculture, so a large percentage of food energy and protein consumed in Papua New Guinea is produced locally, while the balance is imported. The staple foods in Papua New Guinea includes root crops, bananas, and sago. Papua New Guinea\'s diet is largely vegetarian, especially in the Gulf and Highlands regions. \n
+        \n \t\t\t\t Mumu is a traditional method of cooking large quantities of food throughout Papua New Guinea, as well as other islands in the Pacific. It consists of an earth oven that is filled with hot coal or stones, that may be placed in different orientations, and subsequently cooked for a lengthy period of time. Despite the presence of advent ovens in Papua New Guinea, mumu is still prevalent at household level.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022n, October 27). Papua New Guinean cuisine. Wikipedia. https://en.wikipedia.org/wiki/Papua_New_Guinean_cuisine
+    </string>
+    <string name="poi_details">
+        \t\t\t\t Poi is a traditional staple food in the Polynesian diet, made from taro. \n
+        \n \t\t\t\t Traditional poi is produced by mashing cooked starch on a wooden pounding board, with a carved pestle made from basalt, calcite, coral or wood. Modern methods use an industrial food processor to produce large quantities for retail distribution. Water is added to the starch during mashing, and again just before eating, to achieve the desired consistency, which can range from highly viscous to liquid. In Hawaii, this is classified as either "one-finger", "two-finger", or "three-finger", alluding to how many fingers are required to scoop it up (the thicker the poi, the fewer fingers required to scoop a sufficient mouthful). \n
+        \n \t\t\t\t Poi can be eaten immediately, when fresh and sweet, or left to ferment and become sour, developing a smell reminiscent of plain yoghurt. A layer of water on top can prevent fermenting poi from developing a crust.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022p, November 1). Poi (food). Wikipedia. https://en.wikipedia.org/wiki/Poi_(food)
+    </string>
+    <string name="ota_details">
+        \t\t\t\t \’Ota \’Ika is a Oceanian dish consisting of raw fish marinated in citrus juice and coconut milk. The Tongan, Tahitian, and Samoan variants are essentially identical in that the raw fish is briefly marinated in lemon or lime juice until the surface of the flesh becomes opaque. The fish is then mixed with coconut milk and diced vegetables (most commonly cucumber, tomato, onion, green onion, and spicy peppers). This is the national dish of Tonga. \n
+        \n \t\t\t\t The dish is otherwise known as coconut fish in Nauru, kokoda in Fiji and Papua New Guinea, oka in Samoa, ika mata in the Cook Islands and New Zealand, oraora in Kiribati, and simply poisson cru on the French islands. The word "ota" means "raw" within the Polynesian language group, although the more common term for the dish in French Polynesia is its French equivalent, “poisson cru” (literally, "raw fish”). Any type of seafood can be used to make "ota," the word "ika" means fish (“i\'a" in Samoan language), but the dish is often prepared with mussels ("ota pipi/maso”), prawns ("ota ulavai”), crab ("ota pa\’a/paka”), lobster ("ota ula”), octopus/squid("ota fe\’e/feke”), sea urchin ("ota vana/tuitui"), and eel ("ota pusi”). \n
+        \n \t\t\t\t A very similar dish is the kinilaw of the Philippines, and its descendant dish, the kelaguen of the Marianas Islands. The poke of Hawaii is also similar though it does not use citrus juices or coconut milk. It is also similar to the Latin American ceviche, though the latter is relatively recent and may be a derivative dish, as citruses are not native to the Americas.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022p, November 1). ’Ota ’ika. Wikipedia. https://en.wikipedia.org/wiki/\'Ota_\'ika
+    </string>
+    <string name="laplap_Details">
+        \t\t\t\t Laplap (sometimes wrongly spelled lap lap) is the national dish of Vanuatu. Laplap is prepared by grating breadfruit, bananas, taro, or yam roots into a vegetable paste. The paste is then wrapped in banana leaves and cooked in an underground stone oven, with fresh coconut cream. Meats like pork, beef, chicken, or flying fox can be added. \n
+        \n \t\t\t\t Lap lap consists of yams, banana or manioc soaked in coconut cream and cooked in an earth oven.
+        Lap lap has a pudding-like consistency and sometimes comes with chicken or fish.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022b, August 9). Laplap. Wikipedia. https://en.wikipedia.org/wiki/Laplap
+    </string>
+    <string name="pulaka_details">
+        \t\t\t\t Pulaka, Cyrtosperma merkusii or swamp taro, is a crop grown mainly in Tuvalu and an important source of carbohydrates for the area\’s inhabitants. It is a “swamp crop” similar to taro, but "with bigger leaves and larger, coarser roots.” The same plant is known as “pulaka” in Niue, babai in Kiribati, puraka in Cook Islands, pula\’a in Samoa, via kan in Fiji, Pulaka in Tokelau, simiden in Chuuk, swam taro in Papua New Guinea, and naviain Vanuatu. \n
+        \n \t\t\t\t Pulaka roots need to be cooked for hours to reduce toxicity in the corms, but are rich in nutrients, especially calcium. Pulaka is an important part of Tuvalu cultural and culinary tradition, now under threat from rising sea level and displacement from the growing use of imported food products. \n
+        \n \t\t\t\t The crop is grown in pits dug into the limestone atoll and is fertilized by adding leaves from different plants. The plants derive water from the freshwater lens found a few meters below the atoll. For this reason the cultivation of pulaka is threatened by rising sea levels caused by global warming: the plant does not thrive in the salt water which seeps into the pits: it rots the roots, turns the leaves yellow, and stunts the plant\’s growth. These saltwater intrusions occur more often now that the high tides have become higher, and more frequently flood the islands.To alleviate the problem of saltwater pollution, some islanders have begun to line the pits, side and bottom, with cement.
+
+        \n\nReference:
+        \nWikipedia contributors. (2022a, April 22). Pulaka. Wikipedia. https://en.wikipedia.org/wiki/Pulaka
+    </string>
+</resources>

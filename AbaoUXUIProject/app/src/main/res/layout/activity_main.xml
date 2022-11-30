@@ -1,0 +1,74 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto">
+
+    <!--            ASIAN CARD              -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/asianCard"
+        style="@style/MainCardStyle"
+        android:onClick="onClickAsian">
+
+        <LinearLayout
+            style="@style/MainLinearStyle">
+
+            <ImageView
+                style="@style/MainImageStyle"
+                android:src="@drawable/asian" />
+
+            <TextView
+                style="@style/MainTextStyle"
+                android:text="Asian"
+                android:background="#FDF2ED"/>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!--            EUROPEAN CARD              -->
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/europeanCard"
+        style="@style/MainCardStyle"
+        android:onClick="onClickEuropean">
+
+        <LinearLayout
+            style="@style/MainLinearStyle">
+
+            <ImageView
+                style="@style/MainImageStyle"
+                android:src="@drawable/european"/>
+
+            <TextView
+                style="@style/MainTextStyle"
+                android:text="European"
+                android:background="#ECFDF1"/>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!--            OCEANIA CARD              -->
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/oceaniaCard"
+        style="@style/MainCardStyle"
+        android:onClick="onClickOceania">
+
+        <LinearLayout
+            style="@style/MainLinearStyle">
+
+            <ImageView
+                style="@style/MainImageStyle"
+                android:src="@drawable/oceania" />
+
+            <TextView
+                style="@style/MainTextStyle"
+                android:text="Oceania"
+                android:background="#E4F4F3"/>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
